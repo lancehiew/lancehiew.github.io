@@ -1,0 +1,70 @@
+h1{
+	text-align: center;
+	color: goldenrod;
+	font-size: 70px;
+}
+
+body{
+	background-image: url("red chinese.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+}
+
+.nav{
+	position: absolute;
+	left: 375px;
+	width: 30%;
+	margin: 30px auto;
+	padding: 15px;
+	padding-bottom: 5px;
+	background: black;
+	border-radius: 12px; 
+	border: 2px solid #FFFF00;
+
+}
+.nav a{
+	color: red;
+	margin: 0  50px;
+	font-size: 35px;
+}
+
+.shaq{
+	position: absolute;
+	width: 450px;
+	left: 600px;
+	top: 80px;
+}
+
+.yaoming{
+	position: absolute;
+	width: 200px;
+	right: 1200px;
+	top: 250px;
+}
+
+
+.logo{
+	position: absolute;
+	width: 350px;
+	right: 500px;
+	top: 350px;
+}
+
+.iverson{
+	position: absolute;
+	width: 370px;
+	left: 1520px;
+	top: 450px;
+}
+
+.allstar{
+	position: absolute;
+	width: 250px;
+	right: 1150px;
+	top: 600px;
+}
+.box{
+	margin-right: 300px;
+}
+
+
